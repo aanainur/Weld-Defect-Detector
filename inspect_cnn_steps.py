@@ -7,7 +7,7 @@ import tkinter as tk
 from tkinter import filedialog
 
 # File model default yang digunakan jika tidak ada argumen model
-DEFAULT_MODEL = "cnn_manual_124x124_001_76persen.npz"
+DEFAULT_MODEL = "Trained.npz"
 
 
 def relu(x):

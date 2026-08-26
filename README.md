@@ -1,3 +1,6 @@
+Program ini dibuat dengan algoritma CNN dengan perhitungan manual langsung pada program(CNN on scratch), Program hanya menggunakan 1 layer konvolusi, Tujuan utama dari project ini adalah untuk melihat seberapa jauh perbedaan CNN on Scratch dengan algoritma CNN modern.
+
+
 INDONESIA
 1. Buat folder dengan nama train, test, dan valid, kemudian masukkan data citra hasil pengelasan dari berbagai kategori cacat las ke dalam folder yang sesuai sebagai dataset untuk proses pelatihan dan pengujian.
 

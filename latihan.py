@@ -238,7 +238,7 @@ for epoch in range(EPOCHS):
 # ===================== SIMPAN MODEL =====================
 # Simpan bobot dan konfigurasi model ke file .npz
 np.savez(
-    os.path.join(BASE_DIR, "cnn_manual_228x228_aseliii.npz"),
+    os.path.join(BASE_DIR, "Trained.npz"),
     kernels=kernels,
     W1=W1, b1=b1,
     W2=W2, b2=b2,

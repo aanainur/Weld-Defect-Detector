@@ -4,8 +4,8 @@ import os
 from scipy.signal import convolve2d
 
 # ===================== CONFIG =====================
-BASE_DIR = r"c:\Users\aanai\OneDrive\Documents\Skripsi\dataseet\dataset cnn 4 class"
-MODEL_PATH = os.path.join(BASE_DIR, "cnn_manual_448x224.npz")
+BASE_DIR = r"c:\Users\...."
+MODEL_PATH = os.path.join(BASE_DIR, "...")
 
 # ===================== ACTIVATION =====================
 def relu(x): 

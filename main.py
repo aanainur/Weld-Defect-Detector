@@ -5,7 +5,7 @@ from scipy.signal import convolve2d
 
 # ===================== CONFIG =====================
 BASE_DIR = r"c:\Users\...."
-MODEL_PATH = os.path.join(BASE_DIR, "...")
+MODEL_PATH = os.path.join(BASE_DIR, "Trained.npz")
 
 # ===================== ACTIVATION =====================
 def relu(x): 

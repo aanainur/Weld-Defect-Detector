@@ -12,8 +12,8 @@ from matplotlib.figure import Figure
 
 # ===================== KONFIGURASI GUI =====================
 # Path model bisa disesuaikan jika model berada di folder lain
-BASE_DIR = r"c:\Users\aanai\OneDrive\Documents\Skripsi\dataseet\mydataset backup oke"
-MODEL_PATH = os.path.join(BASE_DIR, "cnn_manual_124x124_001_76persen.npz")
+BASE_DIR = r"c:\Users\..."
+MODEL_PATH = os.path.join(BASE_DIR, "Trained.npz")
 
 # ===================== ACTIVATION =====================
 def relu(x): 
